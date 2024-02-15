@@ -15,6 +15,8 @@ Fashion-Forecast 카카오톡 챗봇
 
 - <img src="https://img.shields.io/badge/ChatBot-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kakao-523329?style=for-the-badge&logo=kakao&logoColor=white%22">
 
+- <img src="https://img.shields.io/badge/ide-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/goorm-523329?style=for-the-badge&logo=kakao&logoColor=white%22">
+
 ## 📌 주요기능 
 - 일기 예보 기능
 - 계절에 맞는 코디 추천
